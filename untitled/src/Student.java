@@ -3,4 +3,5 @@ public class Student {
     private double name;
     private String addr;
     private long ioun;
+
 }
