@@ -1,4 +1,4 @@
 public class Student {
     private int id;
-    private Long name;
+    private String name;
 }
