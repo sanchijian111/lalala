@@ -1,4 +1,5 @@
 public class Student {
     private int id;
-    private char name;
+    private String name;
+    private long in;
 }
