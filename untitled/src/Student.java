@@ -1,4 +1,7 @@
 public class Student {
     private int id;
-    private String name;
+    private Long name;
+    private String addr;
+    private int hh;
+    private String ll;
 }
