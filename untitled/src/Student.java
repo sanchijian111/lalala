@@ -1,4 +1,4 @@
 public class Student {
     private int id;
-    private int name;
+    private double name;
 }
